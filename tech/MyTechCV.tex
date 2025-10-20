@@ -1,0 +1,231 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+%----------HEADING Option 1 (Only in case of less space) ----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://example.com/}{\Large John Doe}} & Email : \href{mailto:example.com}{email@example.com}\\
+%   \href{http://example.com/}{http://www.example.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+%-------------------------------------------
+
+%----------HEADING Option 2 (Highly Recommended) ----------
+\begin{center}
+    \textbf{\Huge \scshape Olasunkanmi Arowolo} \\ \vspace{1pt}
+    \small +44 (0)7487 397751 $|$ \href{mailto:tech@olaarowolo.com}{{tech@olaarowolo.com}} $|$ 
+    \href{https://www.linkedin.com/in/olasunkanmiarowolo/}{{\underline{LinkedIn Profile}}} $|$
+    \small Rochester, Kent, United Kingdom
+\end{center}
+%-------------------------------------------
+
+%-----------PROFILE-----------
+\section{Profile}
+\begin{center}
+\small{Detail-oriented and dedicated cybersecurity professional with a strong foundation in security principles, network security, and incident response. Recently completed the ISC2 Certified in Cybersecurity Specialisation, demonstrating a commitment to ongoing education and professional development.}
+\end{center}
+%-------------------------------------------
+
+%-----------Technical Skills-----------
+\section{Technical Skills}
+    \resumeItemListStart
+        \resumeItem{\textbf{Cybersecurity}{: Security Frameworks, Network Security, Incident Response, Risk Management}}
+        \resumeItem{\textbf{Endpoint Security}{: Samsung Knox Manage, Mobile Device Management (MDM), Access Control}}
+        \resumeItem{\textbf{Security Tools}{: Firewalls, Encryption Programmes, Vulnerability Management, Qualys}}
+        \resumeItem{\textbf{Others}{: Business Continuity, Disaster Recovery Planning, Security Operations}}
+\resumeItemListEnd
+%-------------------------------------------
+
+%------------------EXPERIENCE----------------
+\section{Work Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+    {Cybersecurity Analyst (Endpoint \& Mobile Device Security)}{April 2025 - Present}
+    {King's Church Gillingham / Charity Organisation}{Nigeria}
+        \resumeItemListStart
+            \resumeItem{Designed and implemented comprehensive mobile device security policy for Samsung Galaxy Tab devices}
+            \resumeItem{Deployed and managed \textbf{Samsung Knox Manage (Knox 2)} for remote MDM across international locations}
+            \resumeItem{Configured endpoint security controls including app restrictions, remote lock/wipe, and location tracking}
+            \resumeItem{Improved operational security and compliance by enabling real-time remote device management capabilities}
+        \resumeItemListEnd
+
+    \resumeSubheading
+    {Cybersecurity Analyst}{July 2023 - Present}
+    {Research Africa Publications}{Nigeria}
+        \resumeItemListStart
+            \resumeItem{Monitored networks and systems to detect and investigate security threats}
+            \resumeItem{Installed and managed \textbf{firewalls, encryption programmes}, and other security software}
+        \resumeItemListEnd
+
+    \resumeSubheading
+    {Incident Manager}{February 2023 - July 2023}
+    {Research Africa Publications}{Nigeria}
+        \resumeItemListStart
+            \resumeItem{Developed and implemented incident management and response plans}
+            \resumeItem{Collaborated with security and business teams to mitigate risks and ensure service dependability}
+        \resumeItemListEnd
+
+    \resumeSubheading
+    {Incident Manager}{February 2022 - July 2023}
+    {OA MediaKraft Ltd}{Rochester, Kent}
+        \resumeItemListStart
+            \resumeItem{Managed service dependability by mitigating incident risks}
+            \resumeItem{Coordinated with teams to develop comprehensive incident response strategies}
+        \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+%-------------------------------------------
+
+%---------------PORTFOLIO--------------------
+\section{Portfolio}
+    \resumeSubHeadingListStart
+        \resumeProjectHeading
+        {\textbf{Deployment of Security Controls for Mobile Devices}}
+        {King's Church Gillingham / Charity Organisation}
+            \resumeItemListStart
+                \resumeItem{Role: Cybersecurity Analyst (Endpoint \& Mobile Device Security)}
+                \resumeItem{\textbf{Tools \& Technologies}: Samsung Knox Manage, Android Enterprise MDM, Endpoint Security Controls}
+                \resumeItem{Successfully implemented comprehensive mobile device security framework for international charity operations}
+        \resumeItemListEnd
+    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+%-------------EDUCATION---------------------
+\section{Education}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+    {PhD in Journalism}{Canterbury, England}
+    {Centre for Journalism, University of Kent}{2021 -- 2025}
+
+    \resumeSubheading
+    {Master of Science in Communication Studies}{Lagos, Nigeria}
+    {School of Communication, Lagos State University}{2019}
+
+    \resumeSubheading
+    {B.Sc. (Honours) in Mass Communication}{Lagos, Nigeria}
+    {School of Communication, Lagos State University}{2015}
+
+  \resumeSubHeadingListEnd
+%-------------------------------------------
+
+%-------------CERTIFICATIONS---------------------
+\section{Certifications}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+    {ISC2 Certified in Cybersecurity Specialisation}{Coursera}
+    {\href{https://coursera.org/share/certificate}{View Certificate}}{Completed: October 13, 2024}
+
+    \resumeItemListStart
+        \resumeItem{Duration: 1 month (10 hours/week) - Comprehensive cybersecurity foundation}
+        \resumeItem{Course Certificates: Security Principles (100\%), Network Security (90\%), Security Operations (92.66\%)}
+        \resumeItem{Specialized modules: Incident Response, BC \& DR Concepts, Access Control Concepts (100\%)}
+    \resumeItemListEnd
+
+    \resumeSubheading
+    {Qualys Certified Specialist}{Qualys}
+    {\href{https://github.com/olaarowolo/my-cv-and-resume/blob/main/docs/certs/cyber/Diploma_23ad8789-0eea-43a3-81a9-faf0794697ab.pdf}{View Certificate}}{Completed: October 10, 2023}
+
+    \resumeSubheading
+    {Vulnerability Management Diploma}{Training Provider}
+    {\href{https://github.com/olaarowolo/my-cv-and-resume/blob/main/docs/certs/cyber/Diploma_1998c828-5c69-4ffc-aced-bddf1cdc22c5.pdf}{View Certificate}}{Completed: September 25, 2024}
+
+  \resumeSubHeadingListEnd
+%-------------------------------------------
+
+\end{document}
