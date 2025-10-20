@@ -1,0 +1,3 @@
+- [ ] Add \raggedright to Career Profile section for left alignment
+- [ ] Add \raggedright to Career Objective section for left alignment
+- [ ] Compile PDF to verify changes
