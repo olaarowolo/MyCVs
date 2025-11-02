@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Progression Dashboard - Olasunkanmi Arowolo</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 60px 30px;
+            border-radius: 20px;
+            margin-bottom: 40px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            position: relative;
+            overflow: hidden;
+        }
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="20" cy="20" r="2" fill="rgba(255,255,255,0.1)"/><circle cx="80" cy="80" r="2" fill="rgba(255,255,255,0.1)"/><circle cx="40" cy="60" r="1" fill="rgba(255,255,255,0.1)"/></svg>');
+            opacity: 0.1;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 3em;
+            font-weight: 700;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            position: relative;
+            z-index: 1;
+        }
+        header p {
+            margin: 15px 0 0;
+            font-size: 1.3em;
+            opacity: 0.9;
+            position: relative;
+            z-index: 1;
+        }
+        .timeline-section {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 30px;
+            border-radius: 20px;
+            margin-bottom: 40px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .timeline-section h2 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+            font-size: 2em;
+            font-weight: 600;
+        }
+        .career-sections {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        .career-section {
+            flex: 1;
+            min-width: 320px;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .career-section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+        }
+        .career-section h3 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+            font-size: 1.4em;
+            font-weight: 600;
+        }
+        .career-section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .career-section li {
+            margin-bottom: 12px;
+            padding-left: 25px;
+            position: relative;
+            line-height: 1.6;
+        }
+        .career-section li:before {
+            content: "▸";
+            color: #3498db;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+            font-size: 1.2em;
+        }
+        .highlight {
+            background: linear-gradient(135deg, #ecf0f1 0%, #bdc3c7 100%);
+            padding: 15px;
+            border-left: 5px solid #3498db;
+            margin-bottom: 15px;
+            border-radius: 0 10px 10px 0;
+            font-weight: 500;
+        }
+        .additional-sections {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            margin-top: 40px;
+        }
+        .additional-section {
+            flex: 1;
+            min-width: 280px;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .additional-section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+        }
+        .additional-section h3 {
+            color: #2c3e50;
+            border-bottom: 3px solid #e74c3c;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+            cursor: pointer;
+            transition: color 0.3s, transform 0.2s;
+            font-size: 1.3em;
+            font-weight: 600;
+            position: relative;
+        }
+        .additional-section h3:hover {
+            color: #e74c3c;
+            transform: scale(1.02);
+        }
+        .additional-section h3::after {
+            content: ' ▼';
+            float: right;
+            transition: transform 0.3s;
+        }
+        .additional-section.collapsed h3::after {
+            transform: rotate(-90deg);
+        }
+        .additional-section .content {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+        .additional-section.collapsed .content {
+            display: none;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .filter-buttons {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .filter-buttons button {
+            background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin: 0 10px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.3s ease;
+        }
+        .filter-buttons button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        .filter-buttons button.active {
+            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+        }
+        .skills-chart {
+            width: 100%;
+            max-width: 400px;
+            margin: 0 auto 20px;
+        }
+</style>
+</head>
+<body>
+    <header>
+        <h1>Olasunkanmi Arowolo</h1>
+        <p>PhD in Journalism | Cybersecurity Professional | Supply Teacher</p>
+        <p>Career Progression Dashboard</p>
+    </header>
+
+    <div class="container">
+        <section class="timeline-section">
+            <h2>Career Timeline</h2>
+            <canvas id="careerTimeline"></canvas>
+        </section>
+
+        <div class="career-sections">
+            <section class="career-section" data-career="academic">
+                <h3>Academic Career</h3>
+                <div class="highlight">
+                    <strong>Education:</strong> BSc (2014), MSc (2019), PhD (2025)
+                </div>
+                <ul>
+                    <li>Teaching roles at University of Kent, East Kent College, Lagos State University (2015-2024)</li>
+                    <li>Multiple peer-reviewed publications in journals like Global Knowledge, Memory and Communication</li>
+                    <li>Awards: British Academy Global Talent (2025), TETFund Scholarship</li>
+                    <li>Research: Poverty, Politics, and the Press; Independent Journalism Funding Models</li>
+                    <li>Professional memberships: ICA, PCST, ACSPN</li>
+                </ul>
+            </section>
+
+            <section class="career-section" data-career="tech">
+                <h3>Tech/Cybersecurity Career</h3>
+                <div class="highlight">
+                    <strong>Certifications:</strong> ISC2 Certified in Cybersecurity (2024), Qualys Certified Specialist (2023)
+                </div>
+                <ul>
+                    <li>Cybersecurity Analyst at King's Church Gillingham (2025-present)</li>
+                    <li>Incident Manager at Research Africa Publications (2023-present)</li>
+                    <li>Skills: Network Security, Endpoint Security, Firewalls, Vulnerability Management</li>
+                    <li>Experience with Samsung Knox Manage, Qualys tools</li>
+                    <li>Focus on incident response and risk management</li>
+                </ul>
+            </section>
+
+            <section class="career-section" data-career="teaching">
+                <h3>Supply Teaching Career</h3>
+                <div class="highlight">
+                    <strong>Experience:</strong> Cover Supervisor/Teacher in UK schools (2021-2024)
+                </div>
+                <ul>
+                    <li>Lecturer at East Kent College (2023-2024)</li>
+                    <li>Cover roles at multiple schools: Rainham-Mark Grammar, Chatham Grammar, etc.</li>
+                    <li>Subjects: Media, English, Arts, History, Science, Computing</li>
+                    <li>Skills: Classroom management, subject versatility, Adobe Creative Suite</li>
+                    <li>Professional development: Assessment & Feedback training</li>
+                </ul>
+            </section>
+        </div>
+
+        <div class="filter-buttons">
+            <button id="filter-all" class="active">All Careers</button>
+            <button id="filter-academic">Academic</button>
+            <button id="filter-tech">Tech/Cybersecurity</button>
+            <button id="filter-teaching">Supply Teaching</button>
+        </div>
+
+        <div class="additional-sections">
+            <section class="additional-section" id="publications-section" data-career="academic">
+                <h3>Publications & Research</h3>
+                <div class="content">
+                    <ul>
+                        <li><strong>2024:</strong> Visual portrayal of Monkeypox outbreak on BBC (Global Knowledge, Memory and Communication)</li>
+                        <li><strong>2024:</strong> Journalism Ethics: The Dilemma (Cogent Social Sciences)</li>
+                        <li><strong>2023:</strong> World Bank Concept of Good Governance (East African Journal of Interdisciplinary Studies)</li>
+                        <li><strong>2020:</strong> Online Newspaper Coverage of the 8th National Assembly (Media and Communication Review)</li>
+                        <li><strong>2018:</strong> Politics of Nigerian Newspaper Coverage (Media and Communication Review)</li>
+                        <li><strong>2015:</strong> Uses and Gratification theory and Tobacco Advertising (International Journal of Broadcasting)</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section class="additional-section" id="awards-section" data-career="academic tech">
+                <h3>Awards & Certifications</h3>
+                <div class="content">
+                    <ul>
+                        <li><strong>2025:</strong> British Academy Global Talent Endorsement</li>
+                        <li><strong>2024:</strong> ISC2 Certified in Cybersecurity Specialisation</li>
+                        <li><strong>2024:</strong> Qualys Certified Specialist</li>
+                        <li><strong>2024:</strong> Vulnerability Management Diploma</li>
+                        <li><strong>2024:</strong> Runner-Up, University of Kent Three Minute Thesis</li>
+                        <li><strong>2021-2025:</strong> TETFund Doctoral Scholarship (£115,485)</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section class="additional-section" id="skills-section" data-career="academic tech teaching">
+                <h3>Key Skills & Expertise</h3>
+                <div class="content">
+                    <canvas id="skillsChart" class="skills-chart"></canvas>
+                    <ul>
+                        <li><strong>Research:</strong> Qualitative/Quantitative Methods, NVivo, SPSS, Thematic Analysis</li>
+                        <li><strong>Teaching:</strong> Curriculum Development, Student Assessment, Classroom Management</li>
+                        <li><strong>Tech:</strong> Cybersecurity, Network Security, Endpoint Management, Adobe Suite</li>
+                        <li><strong>Communication:</strong> Academic Writing, Public Speaking, Media Literacy</li>
+                        <li><strong>Languages:</strong> English (Fluent), Yoruba (Native)</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section class="additional-section" id="networks-section" data-career="academic tech">
+                <h3>Professional Networks</h3>
+                <div class="content">
+                    <ul>
+                        <li><strong>Academic:</strong> International Communication Association (ICA), Public Communication of Science and Technology (PCST)</li>
+                        <li><strong>Industry:</strong> Association of Communication Scholars and Professionals of Nigeria (ACSPN)</li>
+                        <li><strong>Leadership:</strong> Founder/CEO Afriscribe, Director ResearchAfrica Publications</li>
+                        <li><strong>Editorial:</strong> Peer Reviewer for Global Knowledge, Memory and Communication</li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <script>
+        // Career Timeline Chart
+        const ctx = document.getElementById('careerTimeline').getContext('2d');
+        const careerTimeline = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
+                datasets: [{
+                    label: 'Academic Milestones',
+                    data: [1, 2, 2, 2, 3, 4, 4, 5, 6, 7, 8, 9], // Cumulative milestones
+                    borderColor: '#3498db',
+                    backgroundColor: 'rgba(52, 152, 219, 0.1)',
+                    fill: true,
+                    tension: 0.4
+                }, {
+                    label: 'Tech Milestones',
+                    data: [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 4],
+                    borderColor: '#e74c3c',
+                    backgroundColor: 'rgba(231, 76, 60, 0.1)',
+                    fill: true,
+                    tension: 0.4
+                }, {
+                    label: 'Supply Teaching Milestones',
+                    data: [0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 4, 5],
+                    borderColor: '#2ecc71',
+                    backgroundColor: 'rgba(46, 204, 113, 0.1)',
+                    fill: true,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Career Progression Over Time'
+                    },
+                    legend: {
+                        display: true,
+                        position: 'top'
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        title: {
+                            display: true,
+                            text: 'Milestones Achieved'
+                        }
+                    },
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Year'
+                        }
+                    }
+                }
+            }
+        });
+
+        // Skills Radar Chart
+        const skillsCtx = document.getElementById('skillsChart').getContext('2d');
+        const skillsChart = new Chart(skillsCtx, {
+            type: 'radar',
+            data: {
+                labels: ['Research Methods', 'Teaching Skills', 'Cybersecurity', 'Communication', 'Technical Tools', 'Leadership'],
+                datasets: [{
+                    label: 'Skill Proficiency',
+                    data: [95, 90, 85, 88, 82, 80],
+                    borderColor: '#3498db',
+                    backgroundColor: 'rgba(52, 152, 219, 0.2)',
+                    pointBackgroundColor: '#3498db',
+                    pointBorderColor: '#fff',
+                    pointHoverBackgroundColor: '#fff',
+                    pointHoverBorderColor: '#3498db'
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Skills Proficiency Radar'
+                    }
+                },
+                scales: {
+                    r: {
+                        beginAtZero: true,
+                        max: 100,
+                        ticks: {
+                            stepSize: 20
+                        }
+                    }
+                }
+            }
+        });
+
+        // Interactive Features
+        // Collapsible sections
+        document.querySelectorAll('.additional-section h3').forEach(header => {
+            header.addEventListener('click', () => {
+                header.parentElement.classList.toggle('collapsed');
+            });
+        });
+
+        // Filter buttons
+        const filterButtons = document.querySelectorAll('.filter-buttons button');
+        const allSections = document.querySelectorAll('.career-section, .additional-section');
+
+        filterButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                filterButtons.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+
+                const filter = button.id.replace('filter-', '');
+
+                allSections.forEach(section => {
+                    const careers = section.dataset.career.split(' ');
+                    if (filter === 'all' || careers.includes(filter)) {
+                        section.style.display = 'block';
+                    } else {
+                        section.style.display = 'none';
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
