@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762250258.84234 "/Users/olasunkanmiarowolo/MyCVs/supply_teaching/SupplyTeachingCV.tex" "SupplyTeachingCV.pdf" "SupplyTeachingCV" 1762250260.09325 0
-  "/Users/olasunkanmiarowolo/MyCVs/supply_teaching/SupplyTeachingCV.tex" 1762242747.34346 19052 00e6bc1603b8bc2061ffc6588ad181a4 ""
+["pdflatex"] 1762250644.0503 "/Users/olasunkanmiarowolo/MyCVs/supply_teaching/SupplyTeachingCV.tex" "SupplyTeachingCV.pdf" "SupplyTeachingCV" 1762250645.29762 0
+  "/Users/olasunkanmiarowolo/MyCVs/supply_teaching/SupplyTeachingCV.tex" 1762250637.67814 20983 827476dd9948c6a96b19064a879203ee ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc" 1651520503 2608 3139db8e1f9371a4f87c0715d17fa217 ""
@@ -109,9 +109,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1760168946 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1760168898 3345731 cc291574128d004b86d3405ec23b704d ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "SupplyTeachingCV.aux" 1762250259.93442 3365 c20cfd14b8f7dc0504b81e5857c24020 "pdflatex"
-  "SupplyTeachingCV.out" 1762250259.93549 4517 dde3f1395df97dd742bcbab848087800 "pdflatex"
-  "SupplyTeachingCV.tex" 1762242747.34346 19052 00e6bc1603b8bc2061ffc6588ad181a4 ""
+  "SupplyTeachingCV.aux" 1762250645.13988 3365 90b1116fbaa628e6b84d3025075bc9b7 "pdflatex"
+  "SupplyTeachingCV.out" 1762250645.14116 4517 dde3f1395df97dd742bcbab848087800 "pdflatex"
+  "SupplyTeachingCV.tex" 1762250637.67814 20983 827476dd9948c6a96b19064a879203ee ""
   (generated)
   "SupplyTeachingCV.aux"
   "SupplyTeachingCV.log"
