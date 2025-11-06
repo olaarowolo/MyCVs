@@ -1,0 +1,207 @@
+
+Ọlásúnkànmí
+
+Add co-authors
+We have co-authors suggestions.
+Cited by
+All	Since 2020
+Citations	263	242
+h-index	5	5
+i10-index	2	2
+08040
+20182019202020212022202320242025
+Co-authors
+No co-authors
+Following
+Olasunkanmi Arowolo
+Olasunkanmi Arowolo
+Centre for Journalism, University of Kent; School of Communication, Lagos State University
+Verified email at kent.ac.uk - Homepage
+JournalismMedia SociologyMedia and DemocracyNews FramingDevelopment Communication
+Title
+Cited by
+Year
+Understanding framing theory
+SO Arowolo
+https://doi.org/10.13140/RG.2.2.25800.52482
+207	2017
+An Exposition on framing theory
+SO Arowolo
+Unpublished paper. Lagos State University. Retrieved from: https://s3 …
+20	2017
+Understanding framing theory, Researchgate
+SO Arowolo
+8	2017
+Media audience: The unending swing of the pendulum
+SO Arowolo
+Social Learning
+8	2017
+Journalism ethics: the dilemma, social and contextual constraints
+L Oso, R Adeniran, O Arowolo
+Cogent Social Sciences 10 (1), 2328388
+7	2024
+In search of an elusive ideal: The Socio-Political context of journalistic  objectivity
+SO Oso, L. and Arowolo
+Mass Communication: Education and Practice in Nigeria, 75-98
+3*	2018
+Understanding framing theory. Mass Communication Theory, 3 (6), 4
+SO Arowolo
+3	2017
+Politics of Nigerian Newspaper Coverage of Ondo State 2012 Gubernatorial Election
+IT Asomba, SO Arowolo
+Media and Communication Review 3 (1), 85
+2	2018
+Understanding Framing Theory
+SO Arowolo
+ResearchGate
+2*	
+Paradigm Shifts in Development Communication
+SO Arowolo
+Lagos State University
+2*	
+Online Newspaper Coverage of the 8th National Assembly in Nigeria
+H Suleiman, K Adedeji, SO Arowolo
+Media and Communication Review 5 (1), 57–83 [PDF link] https://bit.ly/3PrY00a
+1	2020
+Poverty, Politics, and the Press: Uncovering the Complexities of Media Coverage on Nigeria's Social Investment Programmes
+OS Arowolo
+University of Kent
+2025
+Visual portrayal of Monkeypox outbreak on BBC: is Western media biased against Africa?
+OA Shodipe, O Arowolo, IB Oloyede, M Alade, IO Fadeyi, L Oko-Epelle
+Global Knowledge, Memory and Communication
+2024
+East African Journal of Interdisciplinary Studies
+O Arowolo, K Yusuf, J Yahya, O Lambo, D Oduolowu
+East African Journal of Interdisciplinary Studies 6 (1)
+2023
+World Bank Concept of Good Governance, Contemporary Nigerian Democracy, and the Place of the Media.
+SO Arowolo, K Yusuf, J Yahya, O Lambo, D Oduolowu
+East African Journal of Interdisciplinary Studies 6 (2), 54-69
+2023
+3Ws: The Social Composition of News in Selected Nigerian Newspapers
+L Oso, J Jimoh, O Arowolo
+Tambari: Journal of Media, Theater and Communication Studies (JOMETCOS), 1 …
+2022
+Text Language: A Revolution in Modern Communication
+SO Arowolo, O Animashaun
+MEDIA, GOVERNANCE AND SUSTAINABLE DEVELOPMENT IN NIGERIA: Book in Honour …
+2020
+The challenges and implications of health journalism practice in Nigeria newspapers
+L Oso, R Adeniran, SO Arowolo
+The National Institute, Kuru, Nigeria
+2019
+Commercialisation and tabloidisation: Journalism as infotainment
+SO Arowolo, L Oso
+Malthouse Press
+2019
+Framing of President Muhammadu Buhari’s UK medical Vacation by Nigerian Newspapers
+SO Arowolo
+Lagos State University
+2019
+Articles 1–20
+PrivacyTermsHelp
+Chat
+🤓 Explain a complex thing
+
+Explain Artificial Intelligence so that I can explain it to my six-year-old child.
+
+🧠 Get suggestions and create new ideas
+
+Please give me the best 10 travel ideas around the world
+
+💭 Translate, summarize, fix grammar and more…
+
+Translate "I love you" French
+
+GPT-4o Mini
+Hello, how can I help you today?
+Page Content
+Page favicon
+Celebration Of Life (Petronela's Family) - Toluwa
+https://www.toluwacreations.com/Clients-2024/Celebration-Of-Life-Petronelas-Family/n-hrD5Dh/i-gxpzBx9/A
+ 🪄 Summarize
+Get a brief overview of the main points and key takeaways
+GPT-4o Mini
+The provided content outlines a structured approach to organizing and accessing data related to a "Celebration of Life" event hosted by the Petronelas Family, featuring Toluwa Creations. It discusses three different approaches to manage data attributes: 
+
+Space-Separated List: Storing data in a single string.
+
+Multiple Data Attributes: Utilizing various distinct data attributes.
+
+Custom Data Attribute for Array-like Structures: Implementing a unique data attribute that behaves like an array.
+
+
+The summary includes recommendations for HTML structure, accessing data, and potential use cases. It highlights updates made to the JavaScript code for improved functionality and performance, while referencing the use of icons such as Font Awesome and SVGs for visual elements. CSS styling is touched upon for additional presentation.
+Overall, the document emphasizes the integration of data management techniques and code optimization for better user interactions and information handling on the Epic Church website.
+4,9,14,19, 24, ...
+
+what is the formular for nth terms and what is the 10th sequence
+GPT-4o Mini
+To find the formula for the ( n )th term of the sequence ( 4, 9, 14, 19, 24, ... ), we first need to identify the pattern in the sequence.
+Calculating the differences between successive terms:
+
+( 9 - 4 = 5 )
+
+( 14 - 9 = 5 )
+
+( 19 - 14 = 5 )
+
+( 24 - 19 = 5 )
+
+
+The difference between each successive term is constant and equal to 5. This indicates that this is an arithmetic sequence.
+In an arithmetic sequence, the ( n )th term can be expressed using the formula:
+[
+a_n = a_1 + (n - 1) \cdot d
+]
+where:
+
+( a_n ) is the ( n )th term,
+
+( a_1 ) is the first term,
+
+( d ) is the common difference,
+
+( n ) is the term number.
+
+
+For this sequence:
+
+( a_1 = 4 ) (the first term),
+
+( d = 5 ) (the common difference).
+
+
+Plugging these values into the formula gives:
+[
+a_n = 4 + (n - 1) \cdot 5
+]
+Simplifying that, we get:
+[
+a_n = 4 + 5n - 5 = 5n - 1
+]
+Now we have the formula for the ( n )th term: 
+[
+a_n = 5n - 1
+]
+To find the 10th term (( n = 10 )):
+[
+a_{10} = 5(10) - 1 = 50 - 1 = 49
+]
+So, the 10th term in the sequence is 49.
+
+AITOPIA
+Ask me anything...
+
+
+Chat
+Ask
+Search
+Write
+Image
+ChatFile
+Vision
+Agent
+Full Page
+Invite & Earn

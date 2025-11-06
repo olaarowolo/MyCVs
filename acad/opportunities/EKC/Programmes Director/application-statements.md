@@ -1,0 +1,66 @@
+# Application Statements: Programme Director (Media)
+
+## Statement 1: Experience Against the Job Specification
+
+I am writing to express my keen interest in the Programme Director role. My experience as a lecturer, researcher, and digital innovator, particularly within the Kent educational landscape, aligns directly with the requirements of this position. I have structured my experience against the employee specification below.
+
+### Skills
+
+1.  **Effective written and oral communication (Weighting: 6):** My academic and professional career is built on exemplary communication. I earned my PhD with no corrections, a distinction reflecting the highest standard of written scholarship. My research has over 260 citations, and I have published in high-impact journals. Orally, I was the runner-up in the University of Kent's 3-Minute-Thesis competition, demonstrating my ability to convey complex ideas concisely to diverse audiences.
+
+2.  **Effective organisational skills and ability to work to deadline (Weighting: 6):** Completing a PhD on schedule demonstrates long-term project management. I founded and direct Research Africa (researchafrica.pub), a digital platform requiring meticulous planning, coordination with developers, and content strategy management. As a Research Assistant on a £1.2M British Academy project, I successfully managed data collection and reporting under strict deadlines.
+
+3.  **Effective teamwork skills (Weighting: 4):** I have co-authored several peer-reviewed articles, requiring close collaboration with international scholars. In my roles at East Kent College and the University of Kent, I worked as part of departmental teams to plan and deliver cohesive programmes of study, sharing resources and best practices to enhance the student experience.
+
+4.  **Ability to motivate, encourage and support students (Weighting: 6):** With over eight years of teaching experience, student success is my primary motivator. As a Personal Tutor at the University of Kent, I provided academic and pastoral support to a tutee group, helping them navigate challenges and achieve their goals. At East Kent College, I designed and implemented innovative teaching strategies that resulted in a documented 76% improvement in student engagement and grades.
+
+5.  **Familiarity with the use of IT (Weighting: 4):** I possess advanced, industry-current IT skills. Beyond proficiency in VLEs (Moodle) and Microsoft Office, I am an expert user of the Adobe Creative Suite (Photoshop, Premiere Pro, InDesign), Final Cut Pro, and research software like NVivo and SPSS. My leadership of the Research Africa platform further showcases my expertise in digital project management and web technologies.
+
+6.  **Actively contribute to the College’s Safeguarding practice (Weighting: 6):** I am fully committed to my safeguarding responsibilities and have detailed my experience in the second statement.
+
+### Experience
+
+1.  **Up to date industry experience (Weighting: 6):** My experience is current and relevant. I am proficient in the latest media production software and techniques, including AI-driven content creation. As the founder of a digital scholarship platform and a Digital Champion for the Digital Kent initiative, I am actively engaged with the contemporary digital media landscape and its application in our community.
+
+2.  **Working knowledge of the requirements of Awarding Bodies and academic cycle (Weighting: 6):** Through my roles at East Kent College and the University of Kent, I have gained a comprehensive understanding of the UK's academic cycle and the quality assurance frameworks of awarding bodies. I have designed curricula, created assessment schedules, and participated in self-assessment processes in line with these requirements.
+
+3.  **Relevant experience of lecturing/training/teaching with successful outcomes (Weighting: 6):** I have over eight years of teaching experience in Further and Higher Education, including three years in the UK. My effectiveness is demonstrated by successful student outcomes, including a significant, measurable increase in student engagement and achievement at East Kent College.
+
+4.  **1 year’s teaching experience post teaching qualification (Weighting: 6):** I hold a PGCE and have over a year of post-qualification teaching experience as a Lecturer at East Kent College, building upon my prior extensive teaching background.
+
+### Education
+
+I confirm I meet all educational criteria for this role:
+*   **Level 5 Diploma in Education and Training or PGCE (Weighting: 6)**
+*   **Appropriate professional qualification (minimum level 3) (Weighting: 6):** My PhD in Journalism is a Level 8 qualification.
+*   **Maths, English, and IT at Level 2 (Weighting: 4):** I hold these qualifications.
+*   **Assessor/Verifier Awards (Weighting: 4):** I have experience acting as an internal assessor for student work as part of my lecturing duties.
+
+As Programme Director, I would leverage this blend of academic leadership, industry knowledge, and proven teaching success to lead the design and delivery of an outstanding and distinctive curriculum that meets the skills needs of the region.
+
+---
+
+## Statement 2: Safeguarding Knowledge and Experience
+
+I understand that safeguarding is a fundamental and proactive responsibility for every member of staff within an educational establishment. My knowledge and experience are rooted in the principle of protecting children, young people, and vulnerable adults from all forms of harm, abuse, and neglect, while actively promoting their health, wellbeing, and human rights.
+
+**Knowledge and Training:**
+
+My understanding of safeguarding is informed by current legislation and statutory guidance, including 'Keeping Children Safe in Education' and the Prevent Duty. In all my UK teaching roles at East Kent College, the University of Kent, and as a supply teacher across 14 Kent schools, I have completed mandatory annual safeguarding and Prevent training. This has ensured I am up-to-date on identifying signs of abuse, understanding radicalisation risks, and knowing the precise procedures for reporting concerns.
+
+**Practical Experience:**
+
+My experience as a Lecturer and Personal Tutor has provided me with direct, frontline responsibility for student welfare.
+
+*   **Pastoral Support:** I have served as the first point of contact for students facing academic and personal difficulties. This has involved holding regular one-to-one tutorials, creating a trusted environment for students to disclose concerns, and providing empathetic support and guidance.
+
+*   **Identifying and Reporting Concerns:** I have experience in identifying changes in behaviour, attendance, or appearance that could indicate a safeguarding issue. In such instances, I have diligently followed the established reporting procedures of the institution, documenting my concerns and escalating them to the designated safeguarding lead (DSL) promptly and confidentially. I understand the importance of early intervention and working collaboratively with the dedicated safeguarding team.
+
+*   **Maintaining Professional Boundaries:** In all interactions, I maintain professional boundaries, ensuring a safe and respectful learning environment. I model the positive and professional behaviour expected in the Staff Code of Conduct.
+
+**Application to the Programme Director Role:**
+
+As a Programme Director, I would champion a robust safeguarding culture across the entire programme. This extends beyond personal responsibility to a leadership function. I would ensure that:
+*   The curriculum and all learning activities are designed and delivered in a safe, inclusive, and supportive manner.
+*   The entire programme team is aware of their safeguarding duties and feels confident in the college's reporting mechanisms.
+*   Student welfare is a key consideration in all aspects of programme management, from recruitment and induction to work experience placements and progression, ensuring a holistic and protective environment for every learner.

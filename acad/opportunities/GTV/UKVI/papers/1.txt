@@ -1,0 +1,121 @@
+UNDERSTANDING
+FRAMING THEORY
+Olasunkanmi AROWOLO1
+Course: Advanced Theories in Communication
+Course Lecturer: Prof. Lai Oso, PhD
+Introduction
+The concept of framing was first posited by Gregory Bateson in 1972. He defined
+psychological frames as a “spatial and temporary bounding of set of interactive messages”
+(Bateson, 1972, p. 197) that operates as a form of metacommunication (Hallahan, 2008).
+Framing describes the practice of thinking about news items and story content within familiar
+context.
+Framing is related to the agenda-setting tradition but expands the research by focusing on the
+essence of the issues at hand rather than on a particular topic. The basis of framing theory is
+that the media focuses attention on certain events and then places them within a field of
+meaning (Mass Communication Theory (Online), 2017).
+Framing theory suggests that how something is presented to the audience (called “the
+frame”) influences the choices people make about how to process that information. Frames
+are abstractions that work to organize or structure message meaning. The most common use
+of frames is in terms of the frame the news or media place on the information they convey,
+(op cit).
+Framing theory explains that the media create this frame by introducing news items with
+predefined and narrow contextualisation. Frames can be designed to enhance understanding
+or are used as cognitive shortcuts to link stories to the bigger picture.
+While there is a clear conceptual intersection between concept of framing (Weaver, 2007),
+the idea of framing is similar to the ‘second level’ of agenda setting which “examines the
+relative salience of attributes of issues, as McCombs (2005) and Ghanem (1997) as described
+in detail. These agenda of attribute are called “the second level” which varies from “the first
+level that has traditionally focused on issues (objects), although the term “level” implies that
+attributes are more specific than objects” (Weaver, ibid).
+(Mass Communication Theory (Online), 2017) lso agree with (Weaver, 2007) that,
+“it could be construed as a form of second level agenda-setting – they
+not only tell the audience what to think about (agenda-setting theory),
+but also how to think about that issue (second level agenda setting,
+framing theory), (Mass Communication Theory (Online), 2017).
+The Frame works
+(Goffman, 1974), under the title of Frame Analysis put forth that people interpret what is
+going on around their world through their primary framework. This framework is regarded
+
+1 School of Communication, Lagos State University, Ojo, Lagos.
+© 2017
+as primary as it is taken for granted by the user. Its usefulness as a framework does not depend
+on other frameworks.
+According to (Mass Communication Theory (Online), 2017), Goffman (1974) states that
+there are two distinctions within primary frameworks: natural + social. Both play the role of
+helping individuals interpret data. So that their experiences can be understood in a wider
+social context. The difference between the two is functional.
+ Natural frameworks identify events as physical occurrences taking natural quote literally and
+not attributing any social forces to the causation of events.
+ Social frameworks view events as socially driven occurrences, due to the whims, goals, and
+manipulations on the part of other social players (people). Social frameworks are built on the
+natural frameworks. These frameworks and the frames that they create in our communication
+greatly influence how data is interpreted, processed, and communicated. Goffman’s underlying
+assumption is that individuals are capable users of these frameworks on a day to day basis.
+Whether they are aware of them or not. (Mass Communication Theory (Online), 2017)
+Thus, the idea of framing means to “draw attention to certain attributes of the objects of news
+coverage, as well as to the objects themselves” (op cit).
+Frames can be defined as organising ideas or themes, ways of linking together stories
+historically, building up a narrative over time and across political space.
+Nature of framing
+Entman in his original article, Framing US Coverage of international News: Contrast in
+Narratives of KAL and Iran Air Incidents, which sprang debates on the concept of framing
+wrote that,
+Unless the narratives are compared, frames are difficult to detect fully
+and reliably, because many of the framing devices can appear as
+“natural,” unremarkable choices of words or images, (Entman, 1991,
+p. 6).
+This explains that the nature of framing cannot be easily identified. However, “comparison
+reveal that such choices are not inevitable or unproblematic but rather are central to the way
+the news frame helps establish the literally ‘common sense” (i.e. widespread) interpretation
+of events”, (op cit).
+To be able to identify framing in the news, (Entman, 1991) identifies five popular ways for
+framing news stories:
+Conflict – conflict between parties can be prioritised, as opposed to the actual decision
+made.
+Human Interest/Personalisation – presenting a story with human face, personality is
+promoted over more important aspects.
+Consequence – consequences can be wide ranging. Pursuing a policy may be unwise
+in terms of unity within a party or coalition or in terms of the status of a nation globally.
+Morality – media coverage can often moralise, sometimes due to the indiscretions of
+political actors; or alternative, policies can be seen as morally questionable. E.g
+Michael Moore’s editorialising of the US Patriot Act, worldwide critique of US
+foreign policy all take a moral tone
+© 2017
+Responsibility – attributing responsibility, either for a cause or a solution. In the wake
+of Asian Tsunami one frame was “global responsibility” for find solutions as well as
+blaming the lack of preparedness on the local governments.
+Types of Frames
+a) Specific – For instance, reporting the Asian Tsunami was linked to consequences, how
+many further deaths there could be if aid was not received, and issues of responsibility.
+b) Generic – For example, conflict and the game of politics as opposed to frames of
+values.
+Levels of Framing
+a) Frame in communication – consist of communication from different actors, sources of
+the news. This could be positive or negative.
+b) Framing in thought – consist of mental representation, interpretation, simplification
+“and if not manipulation” of reality.
+Focus of News framing
+a) To establish a cognitive shortcut
+b) Oversimplified news
+c) Distracts public from important issues
+d) Limits the ability of audience to think outside the box
+e) Activation of magic bullet effect of cognitively shaped audience.
+Summary
+Framing focus on how media draws the public’s eye to specific topics – setting agenda, and
+then it takes a step further to create a frame, through which the audience will comprehend
+such information. Creating frames for stories is commonly a mindful choice by sources,
+reporters, journalists and/or editors. The in a way justifies the media as gatekeepers who
+mindfully collect, select, “organize and present the ideas, events, and topics they cover” (
+(Mass Communication Theory (Online), 2017).
+References
+Bateson, G. (1972). Steps to an ecology of mind: Collected essays in anthropology, psychology, evolution and
+epistemology. San Francisco, CA: Chandler.
+Entman, R. M. (1991). Framing US Coverage of international News: Contrast in Narratives of KAL and Iran Air
+Incidents. Journal of Communication, 41 (4),, 6 – 27.
+Goffman, E. (1974). Frame Analysis: An Essay on the Organization of Experience. . New York, NY et al.: Harper &
+Row.
+Hallahan, K. (2008). Strategic Framing. International Encyclopedia of Communication, Blackwell.
+Mass Communication Theory (Online). (2017, January 31). Framing Theory. Retrieved from Mass Communication
+Theory: https://masscommtheory.com/theory-overviews/framing-theory/
+Weaver, D. (2007). Thought on Agenda Setting, Framing and Priming. . Journal of Communication, 142 – 147.
+View publication stats

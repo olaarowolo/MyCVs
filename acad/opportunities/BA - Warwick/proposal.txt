@@ -1,0 +1,111 @@
+Media, Poverty, and Democracy: A Comparative Analysis of Social Investment Discourse in the UK and Nigeria
+
+Principal Investigators: Olasunkanmi Arowolo 
+Research Assistant: 
+
+Abstract
+This research explores how media narratives around poverty and social investment shape democratic accountability and public engagement in both the United Kingdom and Nigeria. Building on findings from a completed PhD on Nigeria’s National Social Investment Programmes (NSIP), this study will establish a strong empirical and methodological foundation for a comparative UK–Nigeria analysis. Amid growing concerns about social inequality and declining trust in political institutions, the study examines the role of journalistic framing in mediating public understanding of government-led welfare programmes. By focusing on two politically distinct yet democratically comparable settings, the project offers a unique North-South perspective that interrogates how poverty is politicised through media coverage.
+Employing a comparative qualitative design, the study integrates content analysis, discourse analysis, and elite interviews to uncover how media in both countries portray social investment programmes [e.g., Universal Credit in the UK, National Social Safety Nets Project (NASSP) in Nigeria]. It also examines how such portrayals influence public perception, policy debates, and civic participation.
+The project will contribute to critical media and political communication scholarship by developing a typology of poverty discourse in legacy and digital news platforms. It will also offer practical insights for journalists, policymakers, and advocacy organisations aiming to promote more equitable narratives around poverty and social protection.
+In addition to academic outputs, the study will produce a publicly accessible digital dashboard illustrating cross-country media discourse trends, enhancing the impact beyond academia. The research supports the British Academy’s priorities in tackling inequality, strengthening democracy, and promoting international collaboration through interdisciplinary, policy-relevant scholarship.
+Word Count: 259
+ 
+1	Introduction
+Context and Problem Media play a crucial role in shaping public understanding of poverty and the legitimacy of state interventions. Yet, media coverage often reflects entrenched ideologies that can reinforce stigma, individualise structural issues, or delegitimise social programmes. Insights from my PhD research on Nigeria’s National Social Investment Programmes (NSIP) revealed significant gaps in how media narratives around poverty are constructed and disseminated. While existing studies explore welfare media coverage in Western contexts, there is insufficient comparative analysis across diverse political cultures, especially those bridging the UK and postcolonial nations like Nigeria.
+Literature Gap Current scholarship tends to:
+•	Focus primarily on high-income nations (e.g., UK, US).
+•	Ignore comparative framing across differing governance structures.
+•	Under-theorise how poverty discourse affects democratic accountability and civic attitudes.
+My PhD research identified these gaps and highlighted the need for a comparative study that examines media narratives in both the UK and Nigeria. This proposal builds on those findings by focusing on social investment policies and their mediated perception, exploring the implications of these narratives for democratic engagement.
+2	Objectives
+•	To analyse how mainstream and digital media in the UK and Nigeria frame poverty and social investment programmes.
+•	To identify the ideological and discursive strategies used in media portrayals of welfare.
+•	To assess how these narratives influence public trust, policy reception, and civic participation.
+•	To develop a cross-cultural framework for understanding media’s role in democratic accountability.
+3	Methodology
+Research Design A comparative, mixed-method qualitative approach comprising:
+3.1	Media Content Analysis
+•	Sample: Major newspapers, TV transcripts, and influential digital news platforms (2015–2025).
+•	Tools: NVivo for coding themes related to poverty, governance, and social protection.
+During my PhD research on NASSP media narratives, content analysis was validated as an effective method for examining media portrayals of social investment programmes. This method will be refined for the comparative study involving UK welfare media coverage.
+3.2	Critical Discourse Analysis
+•	Examine linguistic constructions and power dynamics in welfare reporting.
+•	Focus on metaphors, blame assignment, and representation of beneficiaries.
+The use of discourse analysis in my PhD research provided valuable insights into the ideological and discursive strategies used in media portrayals of welfare. These methods will be further developed to compare media narratives in the UK and Nigeria.
+3.3	Key Informant Interviews
+•	15–20 journalists, policy experts, and NGO advocates from both countries.
+•	Focus: editorial decisions, constraints, and perceived impact on policy or civic life.
+Interviews conducted during my PhD research validated the importance of understanding editorial decisions and constraints. This approach will be expanded to include key informants from both the UK and Nigeria.
+4	Timeline & Milestones (24 Months)
+•	Month 1–3: Literature review and theoretical framework development
+•	Month 4–7: Media sampling and data collection (UK & Nigeria)
+•	Month 8–12: Coding and preliminary content analysis
+•	Month 13–15: Conduct interviews
+•	Month 16–18: Discourse analysis and interpretation
+•	Month 19–21: Dashboard and policy brief development
+•	Month 22–24: Writing, dissemination, and final reporting
+5	Expected Outcomes
+•	A typology of media frames around social investment.
+•	Comparative insights into how poverty discourse is politicised.
+•	Peer-reviewed articles in journals such as Media, Culture & Society and Journal of Social Policy.
+•	Policy briefs for media professionals and social policy actors.
+•	A digital dashboard tracking trends in media coverage of poverty-related policies.
+6	Impact
+6.1	Scientific Impact
+•	Bridges journalism studies, development studies, and political communication.
+•	Contributes empirical data and theory on cross-cultural media framing.
+6.2	Societal Impact
+•	Offers actionable insights for journalists and communicators on ethical and inclusive poverty reporting.
+•	Supports NGOs and civic groups advocating for equitable welfare discourse.
+•	Informs UK and Nigerian policymakers about public perception barriers to effective social policy.
+6.3	Alignment with British Academy Priorities
+•	Supports themes of “Democracy, Conflict and Governance” and “Justice, Rights and Equality.”
+•	Strengthens UK’s international research partnerships with Global South scholars.
+7	Dissemination Plan
+7.1	Academic:
+•	Two journal articles, one book chapter, and three conference presentations (ICA, IAMCR, African Studies Association UK).
+7.2	Public-Facing:
+•	Digital dashboard on media-poverty discourse.
+•	Policy briefings in collaboration with media think tanks (e.g., Media Reform Coalition UK, Centre for Democracy and Development Nigeria).
+•	Op-eds in The Conversation and Guardian Nigeria.
+•	Workshops: Two stakeholder roundtables (UK and Nigeria) with journalists and policymakers.
+
+8	Budget Justification (Est. Total: £54,000)
+Category	Cost (£)	Justification
+PI Time (0.5 FTE, 18 months)	£30,000	Allows dedicated research time
+Travel (UK ↔ Nigeria)	£6,000	Fieldwork, interviews, and dissemination workshops
+Transcription & Translation	£3,000	Data preparation for interviews
+Software (NVivo, dashboard hosting)	£2,000	Data coding and dashboard visualisation
+Research Assistant (part-time)	£9,000	Supports data collection and analysis
+Dissemination & Open Access	£4,000	Journal fees, stakeholder briefs, and events
+Total Estimated Budget	£54,000	
+
+•	PI Time (0.5 FTE, 18 months): £30,000 - Allows dedicated research time
+•	Travel (UK ↔ Nigeria): £6,000 - Fieldwork, interviews, and dissemination workshops
+•	Transcription & Translation: £3,000 - Data preparation for interviews
+•	Software (NVivo, dashboard hosting): £2,000 - Data coding and dashboard visualisation
+•	Research Assistant (part-time): £9,000 - Supports data collection and analysis
+•	Dissemination & Open Access: £4,000 - Journal fees, stakeholder briefs, and events
+9	References (Selected)
+•	Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of Communication.
+•	Gamson, W. A., & Modigliani, A. (1989). Media discourse and public opinion on nuclear power. American Journal of Sociology.
+•	McQuail, D. (2010). McQuail’s Mass Communication Theory. Sage.
+•	Oloruntoba, S., & Falola, T. (Eds.). (2018). Democratization and Governance in Africa. Palgrave.
+•	Pantti, M., Wahl-Jorgensen, K., & Cottle, S. (2012). Disaster Journalism: Global Perspectives. Peter Lang.
+•	Wodak, R., & Meyer, M. (2015). Methods of Critical Discourse Studies. Sage.
+10	Track Record or Justification of Expertise
+My PhD work on Nigeria’s National Social Investment Programmes (NSIP) positions me as an ideal candidate to lead this British Academy-funded comparative media and democracy project. I have demonstrated methodological readiness through my validated use of content and discourse analysis, and I have established contextual access and engagement with key stakeholders in Nigeria. This experience ensures that I am well-prepared to conduct a rigorous and impactful comparative study.
+11	Feasibility and Risk Reduction
+My PhD experience in the Nigerian context reduces research risk and ensures timely access to data, informants, and analytical models. Having navigated the complexities of media research in Nigeria, I am equipped to manage potential challenges and leverage established networks to facilitate the comparative study with the UK.
+12	Literature Gap Prompt
+Based on my PhD findings on poverty discourse in Nigerian media, key international comparative studies to cite include:
+•	Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of Communication.
+•	Gamson, W. A., & Modigliani, A. (1989). Media discourse and public opinion on nuclear power. American Journal of Sociology.
+•	McQuail, D. (2010). McQuail’s Mass Communication Theory. Sage.
+•	Pantti, M., Wahl-Jorgensen, K., & Cottle, S. (2012). Disaster Journalism: Global Perspectives. Peter Lang.
+These studies highlight the absence of Global South perspectives in welfare media analysis, particularly in relation to UK-focused studies.
+13	Dissemination Planning with PhD Link
+Building on my existing engagement channels from my PhD, such as Nigerian journalism networks and academic conferences, I will extend these to UK-based platforms and global development policy forums. The dissemination plan includes:
+•	Academic: Two journal articles, one book chapter, and three conference presentations (ICA, IAMCR, African Studies Association UK).
+•	Public-Facing: Digital dashboard on media-poverty discourse, policy briefings in collaboration with media think tanks (e.g., Media Reform Coalition UK, Centre for Democracy and Development Nigeria), op-eds in The Conversation and Guardian Nigeria, and workshops with journalists and policymakers in both the UK and Nigeria.
+

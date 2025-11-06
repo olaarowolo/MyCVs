@@ -1,0 +1,93 @@
+Olasunkanmi Arowolo 
+Chatham, Kent, United Kingdom 
++44 (0)7487 397751 tech@olaarowolo.com 
+LinkedIn Profile 
+  
+Profile 
+Versatile and security-focused DevSecOps professional with a background in cybersecurity, web development, and digital infrastructure management. Proficient in integrating security best practices across the software development lifecycle (SDLC), implementing secure CI/CD pipelines, managing cloud and on-premises infrastructure, and deploying secure endpoint and mobile device management systems. Experienced in Laravel, Vue.js, React, and server management, with a passion for creating secure, scalable, and user-centric digital solutions. Committed to continuous learning and fostering best practices in security operations and DevOps methodologies.
+  
+Education 
+Master of Science in Communication Studies 
+School of Communication, Lagos State University, Nigeria 
+2019 
+B.Sc. (Honours) in Mass Communication 
+School of Communication, Lagos State University, Nigeria 2015 
+  
+Certifications 
+ISC2 Certified in Cybersecurity Specialisation 
+Coursera 
+Completed: October 13, 2024 | Duration: 1 month (10 hours/week) 
+View Certificate 
+Course Certificates: 
+Incident Response, BC and DR, Network Security, Security Principles, Security Operations, Access Control 
+Qualys Certified Specialist 
+Completed: October 10, 2023 View Certificate 
+Vulnerability Management Diploma 
+Completed: September 25, 2024 
+View Certificate 
+ 
+ 
+ 
+  
+Skills 
+Cybersecurity & DevSecOps 
+•	Application & Network Security 
+•	Secure CI/CD Pipeline Implementation 
+•	Endpoint & Mobile Device Security (Samsung Knox, Android MDM) 
+•	Vulnerability Management & Secure Code Reviews 
+•	Incident Detection & Response 
+•	Risk Assessment & Business Continuity Planning 
+•	Identity & Access Management (IAM) 
+•	Cloud Security Concepts 
+Technical Tools 
+•	Samsung Knox Manage, Android Enterprise MDM 
+•	Version Control: Git (GitHub, GitLab, Bitbucket) 
+•	Secure Server & Network Management: SSH, SFTP, VPNs 
+•	Web Hosting & Deployment: cPanel, SSH key management, Git-based deployments 
+•	Secure File Transfer Protocols: FTP, FTPS 
+•	Basic Docker & Container Security Principles 
+•	Cloud Infrastructure Security (introductory level) 
+Web Development & Infrastructure 
+•	Laravel, Vue.js, React 
+•	Secure REST API development 
+•	UI/UX Design Principles 
+•	Web Application Hardening 
+•	Database Security (MySQL) 
+  
+Professional Experience 
+Cybersecurity Analyst (Endpoint & Mobile Device Security) 
+Specialisation: Endpoint Security Specialist 
+King’s Church Gillingham / Charity Organisation, Nigeria | April 2025 – Present Project: Deployment of Security Controls for Mobile Devices 
+•	Designed and implemented a comprehensive mobile device security policy for Samsung Galaxy Tab devices donated to a charity organisation. 
+•	Deployed and managed Samsung Knox Manage (Knox 2) for remote mobile device management (MDM), ensuring secure control and monitoring of devices across international locations. 
+•	Configured endpoint security controls including app restrictions, remote lock/wipe, and location tracking to prevent unauthorised access and data breaches. 
+•	Improved operational security and compliance by enabling real-time remote device management and incident response capabilities. 
+•	Strengthened data protection and device integrity for end-users while maintaining operational efficiency for the charity’s programmes. 
+Tools & Technologies: Samsung Knox Manage, Android Enterprise MDM, Endpoint Security ControlsCybersecurity Analyst 
+Cybersecurity Analyst 
+Research Africa Publications Limited | July 2023 – Present 
+•	Monitor systems and networks for vulnerabilities, attacks, and suspicious activities. 
+•	Install and configure firewalls, intrusion prevention systems, and endpoint protection. 
+•	Collaborate with developers to review and secure application code and deployment processes. 
+•	Manage SSH key infrastructure and secure hosting environments. 
+Incident Manager 
+Research Africa Publications | Feb 2023 – July 2023 
+•	Led incident response efforts, including root cause analysis and post-incident reporting. 
+•	Coordinated between technical teams and management to maintain service reliability. 
+•	Developed playbooks for incident detection and response workflows. 
+Incident Manager 
+OA MediaKraft Ltd | Feb 2022 – July 2023 
+•	Oversaw incident management processes, ensuring rapid detection and resolution. 
+•	Assisted with infrastructure and application security audits. 
+•	Implemented risk mitigation strategies and business continuity plans. 
+  
+Projects & Initiatives  
+•	Built Secure Digital Media and Live-streaming Systems integrating firewall configurations, secure camera networks, and encrypted data channels. 
+•	Developed Web Applications using Laravel and Vue.js, implementing authentication and security-first approaches. 
+•	Implemented DevSecOps principles, secure coding, and CI/CD pipeline management.  
+  
+Portfolio  
+Available online: tech.olaarowolo.com  
+  
+References 
+Available upon request. 
