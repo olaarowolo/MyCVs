@@ -7,6 +7,9 @@
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{fontawesome5}
+\usepackage{enumitem}
 \input{glyphtounicode}
 
 \pagestyle{fancy}
@@ -39,13 +42,12 @@
 %-------------------------------
 % Custom commands
 \newcommand{\resumeItem}[1]{
-  \item\small{
-    {#1 \vspace{-2pt}}
-  }
+  \item {\small #1}
 }
 
 \newcommand{\resumeSubheading}[4]{
-  \vspace{-2pt}\item
+  \item
+  \vspace{-2pt}
     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
       \textit{\small#3} & \textit{\small #4} \\
@@ -72,7 +74,7 @@
 
 \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.3in, label={\tiny$\bullet$}]}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
 %-------------------------------------------
@@ -86,36 +88,53 @@
     \textbf{\Large Dr Olasunkanmi S. Arowolo} \\ \vspace{1pt}
     \small Rochester, Kent, United Kingdom $|$ +44 (0)7487 397751 $|$ \href{mailto:oa@olaarowolo.com}{{oa@olaarowolo.com}} \\
     \vspace{3pt}
-    \small \faLinkedin\ \href{https://www.linkedin.com/in/olaarowolo/}{linkedin.com/in/olaarowolo} $|$ 
-    \faOrcid\ \href{https://orcid.org/0000-0002-5296-6478}{0000-0002-5296-6478} $|$ 
-    \faGoogleScholar\ \href{https://scholar.google.com/citations?user=3N_RQWoAAAAJ&hl=en}{Google Scholar} \\
+    \small \faLinkedin\ \href{https://www.linkedin.com/in/olaarowolo/}{linkedin.com/in/olaarowolo} $|$
+    \faOrcid\ \href{https://orcid.org/0000-0002-5296-6478}{0000-0002-5296-6478} $|$
+    \faGraduationCap\ \href{https://scholar.google.com/citations?user=3N_RQWoAAAAJ&hl=en}{Google Scholar} \\
     \vspace{2pt}
-    \small \faResearchgate\ \href{https://www.researchgate.net/profile/Sunday-Arowolo}{ResearchGate} $|$ 
+    \small \faResearchgate\ \href{https://www.researchgate.net/profile/Sunday-Arowolo}{ResearchGate} $|$
     \faTwitter\ \href{https://twitter.com/olaarowolo}{@olaarowolo}
 \end{center}
 
 % Set left alignment for all content after header
 \raggedright
 
+%-----------PROFESSIONAL PROFILE-----------
+\section{Professional Profile}
+\small{Highly motivated and skilled Post-Doctoral candidate with a PhD in Journalism, endorsed by the British Academy as Global Talent (2025). Possessing a strong academic foundation, a growing record of peer-reviewed publications, and extensive international experience in university-level teaching, including in the UK. Proven ability to design and execute independent, high-quality research projects, including proficiency in qualitative methodologies such as interviews and focus groups, and experience with systematic literature reviews. Actively engaged with the UK journalism landscape through research and teaching. Committed to contributing to impactful research, fostering an inclusive and equitable academic environment, and effectively communicating findings to diverse audiences.}
+%-------------------------------------------
+
+%-----------CAREER OBJECTIVES-----------
+\section{Career Objectives}
+\small{To secure a Research Fellowship position at the University of Liverpool, leveraging expertise in communication and journalism to advance AI-driven research in life sciences. Aspire to develop interdisciplinary projects that integrate AI technologies for societal benefits, such as enhancing public health systems, addressing structural inequalities, and promoting ethical AI in media and communication. Committed to fostering collaborations across computer science, health, and social sciences to create transparent, inclusive AI solutions that prioritize human values and community engagement.}
+%-------------------------------------------
+
+%-----------RESEARCH INTERESTS-----------
+\section{Research Interests}
+    \resumeItemListStart
+        \resumeItem{The role of media in democratic processes, particularly in relation to social investment programmes and poverty discourse in developing nations and the UK}
+        \resumeItem{Independent journalism, its definitions, challenges, and impact within the UK and comparative contexts}
+        \resumeItem{The interplay between traditional press, social media (Twittersphere), and public opinion}
+        \resumeItem{Framing analysis, media representation of marginalized voices, and journalistic authenticity}
+        \resumeItem{Contemporary research methodologies in communication and journalism, including systematic reviews and qualitative approaches}
+        \resumeItem{Effective communication of research findings to academic, public, and potentially policy-relevant audiences}
+        \resumeItem{AI applications in communication and journalism, including ethical AI for media representation, algorithmic journalism, and AI-driven public health communication}
+        \resumeItem{Interdisciplinary AI research addressing structural inequalities, sustainable development, and societal challenges through transparent and inclusive AI systems}
+        \resumeItem{Integration of AI in social sciences for predictive modeling, community engagement, and participatory governance in health and environmental contexts}
+    \resumeItemListEnd
+%-------------------------------------------
+
 %-----------EDUCATION & QUALIFICATIONS-----------
 \section{Education \& Qualifications}
   \resumeSubHeadingListStart
-    \resumeSubheading
-      {PhD in Journalism}{2025}
-      {University of Kent}{United Kingdom}
+    \resumeSubheading{PhD in Journalism}{2025}{University of Kent}{United Kingdom}
       \resumeItemListStart
         \resumeItem{\textbf{Thesis Title:} Poverty, Politics, and the Press: Uncovering the Complexities of Media Coverage on Nigeria's Social Investment Programmes}
         \resumeItem{Research employs quantitative, qualitative methods including in-depth interviews and thematic analysis using NVivo, SPSS, and CDA}
         \resumeItem{\textbf{Supervisor(s):} Dr. Ben Cocking, Dr. Richard Pendry | \textbf{External Examiner:} Prof. Martin Scott}
       \resumeItemListEnd
-    
-    \resumeSubheading
-      {Master of Science (M.Sc.), Communication Studies [4.01 CGPA]}{2019}
-      {Lagos State University}{Nigeria}
-    
-    \resumeSubheading
-      {Bachelor of Science (B.Sc.) (Hons), Mass Communication [4.1 CGPA]}{2014}
-      {Lagos State University}{Nigeria}
+    \resumeSubheading{Master of Science (M.Sc.), Communication Studies [4.01 CGPA]}{2019}{Lagos State University}{Nigeria}
+    \resumeSubheading{Bachelor of Science (B.Sc.) (Hons), Mass Communication [4.1 CGPA]}{2014}{Lagos State University}{Nigeria}
   \resumeSubHeadingListEnd
 
 %-----------CAREER HISTORY-----------
