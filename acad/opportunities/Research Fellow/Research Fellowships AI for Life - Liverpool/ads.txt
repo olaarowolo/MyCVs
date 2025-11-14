@@ -41,3 +41,55 @@ Click on the link below to view the full Job Description
 CV Guidance Research Fellowships
 Outline Research Proposal
 AI for Life - Job description
+
+
+
+
+AI for life
+AI for life
+AI for life brings different fields together to advance AI technologies and their applications. Our researchers develop solutions to address major societal challenges: improving health and social care, closing educational gaps, and promoting economic growth.
+
+We collaborate across computer science, engineering, health, social sciences, and humanities, ensuring our AI innovations serve human needs. Prioritising explainability, transparency, and community involvement allows us to keep human values at the centre of technological advancement.
+
+Eligibility
+Candidates will be expected to have a PhD in a discipline relating to their fellowship proposal, and at least three years of postdoctoral experience in an academic, research and development (R&D) or policy environment.
+
+Candidates must apply against one of our defined frontier focus areas listed below and clearly articulate their vision in their outline research proposal. Please do not apply for more than one focus area.
+
+N.B. Host departments listed in each frontier focus area are purely indicative to aid the internal handling of applications. Successful candidates will be placed in the most appropriate University department for their discipline.
+
+Frontier focus areas
+Public health AI: Multi-agent engineering of preventive health systems
+Host institute: Population Health
+Host department: Public Health, Policy and Systems.
+Fellowship in this research area will focus on pioneering new public health AI research and advance the shifts toward prevention, community-based care and public-facing digital health systems.
+
+In particular, the research should investigate widening inequalities in the fast-emerging AI economy, working with Liverpool’s Civic Data Cooperative and with multiple organisations who share data and digital workflows, including, NHS, social care, charity and voluntary sector organisations and residents directly.
+
+AI for a sustainable and equitable planet
+Host school: Environmental Sciences
+Host department: Earth, Ocean and Ecological Sciences / Geography and Planning.
+Fellowship in this research area will develop AI approaches that address environmental challenges through a social justice lens, recognising that climate impacts disproportionately affect marginalised communities. This fellow will advance machine learning applications for understanding and supporting community adaptation, resource distribution and participatory environmental governance.
+
+In particular, the Fellow will develop predictive models for climate-induced displacement, using satellite imagery, social media data, and demographic information to anticipate migration patterns and community needs. The research may also prioritise co-design with affected communities, ensuring AI tools serve grassroots environmental movements.
+
+AI foundations for next-generation models supporting society
+Host school: Computer Science and Informatics
+Host department: Artificial Intelligence subject group.
+Fellowship in this research area will focus on the development of fundamental AI techniques that will contribute to advancing the field and enable applications that support societal needs. We are agnostic about the specific AI approaches that the Fellow has expertise in, but their research plans should focus on known challenges to be tackled in order to advance technical capabilities of AI to be deployed in real world scenarios.
+
+In particular, the Fellow will set out a programme of activity for advancing their research in alignment with principles of developing ethical, trustworthy outputs that serve to advance human potential and should demonstrate how their fundamental research contributions can be taken forward into applications, working on interdisciplinary collaborations and with non-academic partners.
+
+AI systems and structural inequality
+Host school: The Arts
+Host department: Communication and Media.
+Fellowship in this area will develop a programme of work examining how AI systems can challenge or perpetuate structural social inequalities in digital societies. Research will combine computational social science with critical humanities perspectives to address the impact of AI in one or more areas of welfare, employment, education, media, or justice.
+
+It will address the intersection of digital and AI divides with race, class, and disability; and may consider participatory methods for democratising AI development. Methodological innovation may include blending quantitative, ethnographic, and algorithmic methods to create tools that democratise access to or the design of AI for affected communities.
+
+The Fellow will collaborate with a set of civil society organisations, trade unions, and digital rights groups who already partner with the University.
+
+How to apply
+Click here to apply for this fellowship via our e-recruitment site.
+
+Please ensure that you read the application guidance here.
