@@ -56,7 +56,3 @@ Apply Below:
 
 
 ////
-Read this acad\DetailedAcademicCV.tex and write another tailored CV for this role acad\opportunities\Job Application - Researcher\ads.txt and save it in the acad\opportunities\Job Application - Researcher dir
-
-My current address is Lagos, Nigeria. for the next few months
-

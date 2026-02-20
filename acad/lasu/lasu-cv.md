@@ -50,6 +50,7 @@ Printed: Today, 08 Feb 2026, 01:05pm
 - 18/05/2018 - 20/05/2018: The New Media: Responsibilities, Opportunities and Challenges (ROC) for the Campus Journalist, organized by The Nation Campus Life Newspaper
 
 ## Honours and Distinctions
+- \* 2026: Michael Haley Travel Grant ($700.00), awarded for the 76th Annual ICA Conference, Communication and Inequalities in Context, 4-8 June 2026, Cape Town, South Africa
 - 2025: PhD (Awarded with no corrections)
 - \* 2025: Global Talent Endorsement, British Academy
 - \* 2021 - 2025: Tertiary Education Trust Fund (TETFund) Federal Government of Nigeria University Doctoral Scholarship
