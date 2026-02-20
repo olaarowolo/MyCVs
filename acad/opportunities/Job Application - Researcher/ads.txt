@@ -1,0 +1,60 @@
+DISPATCH FROM THE REPUBLIC
+We Are Hiring Researchers
+The Republic
+February 20, 2026
+The Republic is looking for detail-oriented and intellectually curious researchers based in Lagos and environs to support our work. Successful candidates will conduct rigorous research and interviews across topics in Nigerian history.
+The Republic is looking for detail-oriented and intellectually curious researchers based in Lagos, Nigeria, and environs to support our work. Successful candidates will conduct rigorous research and interviews across topics in Nigerian history. This part-time, remote role requires strong writing skills and a deep familiarity with secondary, archival and media sources relevant to Nigeria. Researchers will also conduct in-person and virtual interviews.
+
+About The Republic
+
+The Republic is a Nigerian publication committed to rigorous, reflective and forward-looking journalism about Nigeria and wider African diaspora. We publish deeply reported stories and analysis on politics, business, culture, international affairs, and the ideas shaping Nigeria and the African diaspora.
+
+
+
+KEY RESPONSIBILITIES
+⎈ Conduct in-depth research across assigned focus area, particularly on Nigeria’s socio-economic and political history.
+
+⎈ Conduct physical and virtual interviews
+
+⎈ Compile, synthesize and clearly present research findings for use.
+
+⎈ Draft interview guides and well-structured interview questions.
+
+⎈ Prepare and organize interview transcripts.
+
+⎈ Verify facts, dates, quotations and contextual references to ensure accuracy and credibility.
+
+⎈ Identify and share relevant secondary literature, archival and media materials.
+
+⎈ Copy-editing transcripts and other research materials.
+
+REQUIREMENTS
+⎈ Doctoral student/researcher in history, political science and other related fields or proven experience as a researcher in journalism or a research/think-tank environment.
+
+⎈ Excellent written and verbal communication skills.
+
+⎈ Demonstrated interest in Nigerian history, politics, culture and society.
+
+⎈ Ability to work with archival materials, literary texts and media sources.
+
+⎈ Experience drafting interview guides and conducting interviews (preferred).
+
+⎈ Strong attention to detail and comfort working to deadlines.
+
+⎈ Ability to work remotely and collaborate with a distributed editorial team.
+
+⎈ Preferably based in Lagos.
+
+
+This is a two-month remote role (except for scheduled in-person interviews). Successful candidates will be paid ₦400,000 per month for the project duration.
+
+Deadline: Friday, 27 February 2026
+
+Apply Below:
+
+
+Read this acad\DetailedAcademicCV.tex and write another tailored CV for this role acad\opportunities\Job Application - Researcher\ads.txt and save it in the acad\opportunities\Job Application - Researcher dir
+
+My current address is Lagos, Nigeria. for the next few months
+
+do not overide create a new file but copy the .tex file and update to match the role ensuring to show strong fit for the role plus global experience
