@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+clean_script="$repo_root/clean_latex_aux.sh"
+
+if [[ ! -x "$clean_script" ]]; then
+  echo "[pre-push] Skipping LaTeX aux cleanup: clean_latex_aux.sh is missing or not executable."
+  exit 0
+fi
+
+echo "[pre-push] Cleaning LaTeX aux files..."
+"$clean_script" "$repo_root" >/dev/null || {
+  echo "[pre-push] LaTeX aux cleanup failed. Aborting push."
+  exit 1
+}
+
+echo "[pre-push] LaTeX aux cleanup complete."
+exit 0

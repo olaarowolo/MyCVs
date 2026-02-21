@@ -50,6 +50,7 @@ Printed: Today, 08 Feb 2026, 01:05pm
 - 18/05/2018 - 20/05/2018: The New Media: Responsibilities, Opportunities and Challenges (ROC) for the Campus Journalist, organized by The Nation Campus Life Newspaper
 
 ## Honours and Distinctions
+- \* 2026: Michael Haley Travel Grant ($700.00), awarded for the 76th Annual ICA Conference, Communication and Inequalities in Context, 4-8 June 2026, Cape Town, South Africa
 - 2025: PhD (Awarded with no corrections)
 - \* 2025: Global Talent Endorsement, British Academy
 - \* 2021 - 2025: Tertiary Education Trust Fund (TETFund) Federal Government of Nigeria University Doctoral Scholarship
@@ -131,6 +132,8 @@ Printed: Today, 08 Feb 2026, 01:05pm
 - 2018: Association of Communication Scholars and Professionals of Nigeria (ACSPN) - Understanding Nigerian Media and Elections through research: Analysis of the 2015 presidential election campaign messages
 
 ## Conferences / Workshops Attended and Papers Presented (with Dates)
+- \* 2026: Arowolo, S. Olasunkanmi, "Electoral Weaponisation of Micro-Credit: Nigerian Newspaper Coverage of Tradermoni Vote-Buying Allegations During the 2018-2019 Election Cycle", accepted for Individual Submission presentation at the 76th Annual Conference of the International Communication Association (ICA), 4-8 June 2026, Westin Cape Town & CTICC, Cape Town, South Africa
+- \* 2026: Arowolo, S. Olasunkanmi, "Whose Voice Counts? Government Dominance and Press Release Reliance in Nigerian Newspaper Coverage of Social Investment Programmes", accepted for Individual Submission presentation at the 76th Annual Conference of the International Communication Association (ICA), 4-8 June 2026, Westin Cape Town & CTICC, Cape Town, South Africa
 - \* 2025: Arowolo, S. Olasunkanmi and Oduolowu, D., "Communicating Climate Change in Africa: Role perception and role shifting among environmental journalists in Nigeria", PCST 2025
 - \* 2024: Arowolo, S. Olasunkanmi, "Harnessing the Fourth Estate: News media as catalyst for effective social investment policies implementation", AEJMC Midwinter Conference (Political Communication Division), University of Oklahoma
 - \* 2024: Arowolo, S. Olasunkanmi and Oduolowu, D., "Cross-Border Perspectives: A Comparative Thematic Analysis of Local Governance Discourse in US and UK Online Community News", AEJMC Southeast Colloquium, University of Kentucky
