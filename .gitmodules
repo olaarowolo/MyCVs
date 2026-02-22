@@ -1,0 +1,3 @@
+[submodule "documents/MyCVs"]
+	path = documents/MyCVs
+	url = https://github.com/olaarowolo/MyCVs.git
