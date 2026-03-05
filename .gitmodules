@@ -1,3 +1,6 @@
 [submodule "documents/MyCVs"]
 	path = documents/MyCVs
 	url = https://github.com/olaarowolo/MyCVs.git
+[submodule "ACADEMIC_EVIDENCE_SYSTEM/MyCVs"]
+	path = ACADEMIC_EVIDENCE_SYSTEM/MyCVs
+	url = https://github.com/olaarowolo/MyCVs.git
